@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # m.movie - Movie Booking System
 
 Welcome to the m.movie project! This is a web application designed for booking movie tickets at Mlimani City Moving Cinema. Users can view movie schedules, book seats, and manage their accounts, while admins can manage movie listings and schedules.
@@ -109,3 +110,7 @@ Contributions are welcome! Please feel free to submit a pull request or open an 
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
+=======
+# M.MOVIE
+movie booking website especially desined for MLIMANI CITY moving cinema
+>>>>>>> cef5874c16df4d28279685996df62f6500f42098
